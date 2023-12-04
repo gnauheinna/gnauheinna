@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnauheinna)](https://git.io/streak-stats)
 <!--
 **gnauheinna/gnauheinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
