@@ -1,5 +1,3 @@
-# 💫 About Me:
-✨ I'm currently working on Connect+ a peer consultation platform for first gen students<br>🔭 I'm passionate about cryptography and fullstack development<br>🪭 I'm proficient in java, python, C#, C++, javascript, typescript, and more.<br>🎙️ Fun fact about me! I was a rock band lead singer that tour around the country in highschool<br>📍Ask me about my startup
 
 
 ## 🌐 Socials:
